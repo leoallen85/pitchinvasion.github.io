@@ -23,16 +23,20 @@ From helping start-ups get off the ground to working in large teams for establis
 
 * Business Development
   : I believe the key to web development is communication, and most importantly this is ensuring that the business goals and the technical needs are working together nicely. That's why I've found my most successful projects have been those in which I've been allowed to give technical insights into the direction of the business/product.
+
 -------
 
 ### Technical {#technical}
-* Ruby/Rails
-* Javascript/NodeJS/CoffeeScript/BackboneJS etc.
-* PHP
-* HTML5/CSS3
-* Git
-* Unix
-* MySQL/PostgreSQL
+1. Ruby/Rails
+1. Javascript/CoffeeScript
+1. PHP
+1. NodeJS
+1. HTML5
+1. CSS3
+1. Git
+1. Unix
+1. MySQL/PostgreSQL
+
 ------
 
 ### Experience {#experience}
@@ -66,14 +70,17 @@ Various Companies
 : *Freelance Web Developer*
   __2004-2014__
   For the past 10 years I have worked freelance for various companies doing everything from building a co-working website in Ruby for a New-York based start-up, to an interactive map for an architectural firm embedded in Drupal, to custom booking software for Yoga teachers built using BackboneJS and Rails.
-------
-### Education
-: *University of Sussex*
-  __2004-2007__
 
-__Intellectual and Cultural History BA (Hons)__ - First Class Honours
+------
+
+### Education {#experience}
+
+First Class Honours in *Intellectual and Cultural History*, __University of Sussex__
+
+------
 
 ### Footer {#footer}
 
-Leo Allen -- [leo.f.allen@gmail.com](leo.f.allen@gmail.com) -- +44 (0) 7841 528 905 -- [http://github.com/pitchinvasion](http://github.com/pitchinvasion)
+[leo.f.allen@gmail.com](leo.f.allen@gmail.com) -- +44 (0) 7841 528 905 -- [http://github.com/pitchinvasion](http://github.com/pitchinvasion)
+
 ------

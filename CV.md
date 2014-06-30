@@ -9,7 +9,7 @@
 
 ### Profile {#profile}
 
-From helping start-ups get off the ground to working in large teams for established websites with millions of users, I've over 10 years experience creating, developing, designing and advising for companies in four continents in all aspects required to make a successful online business. 
+From helping start-ups get off the ground to working in large teams for established websites with millions of users, I have over 10 years experience creating, developing, designing and advising for companies in four continents in all aspects required to make a successful online business. 
 
 ------
 
@@ -21,7 +21,7 @@ From helping start-ups get off the ground to working in large teams for establis
 * Project Direction
   : Experience in managing, directing and training teams, ensuring that team members are happy, engaged and productive, and implementing best practices such as Agile - or even better Extreme Programming (XP) - to get the job done effectively with as little time wasted on pointless managerial procedures.
 
-* Business Development
+* Product Development
   : I believe the key to web development is communication, and most importantly this is ensuring that the business goals and the technical needs are working together nicely. That's why I've found my most successful projects have been those in which I've been allowed to give technical insights into the direction of the business/product.
 
 -------
@@ -41,20 +41,15 @@ From helping start-ups get off the ground to working in large teams for establis
 
 ### Experience {#experience}
 
-Enternships.com
-: *Lead Developer/Technical Consultant*
-  __2013-2014__
-  Assisted in the overhaul of current site, helped put in place proper development/product management principles, and temporarily lead team until we recruited a permanent lead. Worked with the business development team advising on the future direction of the product so it would better align with the technical capabilities of the website.
-
 ECPAT International
 : *Web Designer/Technical Consultant*
   __2013__
-  Advised Bangkok-based international charity with subsidiaries in over xx countries on the direction they should take technically. Following this consultancy volunteered to rebuild and redesign their current site, and based on a thorough research of their user's and the charities needs built a Drupal site with a cleaned-up, stripped-down design.
+  Advised Bangkok-based international charity with subsidiaries in over 70 countries on the direction they should take technically. Following this consultancy volunteered to rebuild and redesign their current site, and based on a thorough research of their user's and the charities needs built a Drupal site with a cleaned-up, stripped-down design.
 
 Maker's Academy
 : *Teacher*
   __2013__
-  Founding member of the faculty of a 12-week intensive web development course, both taught and advised students in the class and assisted with the development of the curriculum. Students have since gone on to work at companies such as Sky
+  Founding member of the faculty of a 12-week intensive web development course, both taught students in the class and assisted with the development of the curriculum. Students have since gone on to work at companies such as Sky and LastMinute.com
 
 CouchSurfing.org
 : *Software Engineer*
@@ -82,5 +77,3 @@ First Class Honours in *Intellectual and Cultural History*, __University of Suss
 ### Footer {#footer}
 
 [leo.f.allen@gmail.com](leo.f.allen@gmail.com) -- +44 (0) 7841 528 905 -- [http://github.com/pitchinvasion](http://github.com/pitchinvasion)
-
-------

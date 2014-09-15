@@ -1,15 +1,15 @@
 # Leo Allen
 ## Technical Consultant, Web Developer
 
-> [Download PDF](cv.pdf)  
-> [leo.f.allen@gmail.com](leo.f.allen@gmail.com)  
+> [Download PDF](cv.pdf)
+> [leo.f.allen@gmail.com](leo.f.allen@gmail.com)
 > +44 (0)7841 528 905
 
 ------
 
 ### Profile {#profile}
 
-From helping start-ups get off the ground to working in large teams for established websites with millions of users, I have over 10 years experience creating, developing, designing and advising for companies in four continents in all aspects required to make a successful online business. 
+From helping start-ups get off the ground to working in large teams for established websites with millions of users, I have over 10 years experience creating, developing, designing and advising for companies in four continents in all aspects required to make a successful online business.
 
 ------
 
@@ -30,16 +30,26 @@ From helping start-ups get off the ground to working in large teams for establis
 1. Ruby/Rails
 1. Javascript/CoffeeScript
 1. PHP
-1. NodeJS
 1. HTML5
 1. CSS3
 1. Git
 1. Unix
 1. MySQL/PostgreSQL
+1. Some experience of NodeJS/Python
 
 ------
 
-### Experience {#experience}
+### Selected Experience {#experience}
+
+Various
+: *Freelance Web Developer*
+  __2014__
+  Worked most recently on a wide variety of projects: everything from a Chaplin.js/Backbone.js/Rails based booking management system, to a custom-designed interactive map using Leaf.js/Mapbox and Drupal, to a music visualizer for the London Symphony Orchestra built in tandem with an animator using Blender and Python.
+
+Enternships
+: *Lead Developer*
+  __2013-2014__
+  Acted as interim Lead Developer for a socially-minded jobs board for young people. Assisted in the rebuilding from scratch of the website in Rails, introducing a strict BDD-based approach to code development, whilst overseeing a more agile system of team management.
 
 ECPAT International
 : *Web Designer/Technical Consultant*
@@ -64,7 +74,7 @@ Mukuru.com
 Various Companies
 : *Freelance Web Developer*
   __2004-2014__
-  For the past 10 years I have worked freelance for various companies doing everything from building a co-working website in Ruby for a New-York based start-up, to an interactive map for an architectural firm embedded in Drupal, to custom booking software for Yoga teachers built using BackboneJS and Rails.
+  For the past 10 years I have worked freelance on-and-off for various companies, doing everything from building a co-working website in Ruby for a New-York based start-up to a bill-sharing application written in PHP.
 
 ------
 

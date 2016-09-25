@@ -41,10 +41,22 @@ From helping start-ups get off the ground to working in large teams for establis
 
 ### Selected Experience {#experience}
 
+Makers Academy
+: *Senior Engineer/Coach*
+  __2014-2016__
+  Returned to Makers Academy (Europe's largest coding bootcamp) to lead up the
+Engineering team, introducing best practices such as Continuous
+Integration/Deployment, XP-themed Agile, TDD, pair programming, etc. Helped
+update the curriculum with Node.js and Angular.js, and coached hundreds of students
+into their first job. Worked on product design, introducing
+Design Sprints and doing proper UX with user interviews and metrics. Helped the
+team experiment with self-management, and introduced ideas of self-management
+into the engineering team.
+
 Various
 : *Freelance Web Developer*
   __2014__
-  Worked most recently on a wide variety of projects: everything from a Chaplin.js/Backbone.js/Rails based booking management system, to a custom-designed interactive map using Leaf.js/Mapbox and Drupal, to a music visualizer for the London Symphony Orchestra built in tandem with an animator using Blender and Python.
+  Worked on a wide variety of projects: everything from a Chaplin.js/Backbone.js/Rails based booking management system, to a custom-designed interactive map using Leaf.js/Mapbox and Drupal, to a music visualizer for the London Symphony Orchestra built in tandem with an animator using Blender and Python.
 
 Enternships
 : *Lead Developer*

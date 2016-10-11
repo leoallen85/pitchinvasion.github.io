@@ -1,5 +1,5 @@
 # Leo Allen
-## Technical Consultant, Web Developer
+## Technical Consultant/Software Engineer
 
 > [Download PDF](cv.pdf)
 > [leo.f.allen@gmail.com](leo.f.allen@gmail.com)
@@ -15,29 +15,19 @@ From helping start-ups get off the ground to working in large teams for establis
 
 ### Skills {#skills}
 
-* Web Development
-  : Specialising in Ruby, PHP, and Javascript I'm passionate about not just coding, but finding the elusive balance between doing something the right way using everyone's favourite acronyms (TDD, OOP, MVC, etc.) and getting it delivered on time and on budget.
+* Software Engineering
+
+  : I'm passionate about writing well-written, clean code that can be easily
+understood and built on in the future. My expertise lies mainly in
+object-oriented programming (although Ruby is my favourite language I'll happily
+code in whatever language is required for the job), and wherever possible I like
+to test-drive the process of writing that code.
 
 * Project Direction
-  : Experience in managing, directing and training teams, ensuring that team members are happy, engaged and productive, and implementing best practices such as Agile - or even better Extreme Programming (XP) - to get the job done effectively with as little time wasted on pointless managerial procedures.
+  : Experience in managing, directing and training teams, ensuring that team members are happy, engaged and productive, and implementing best practices as advised by the agile manifesto - Extreme Programming (XP) being my preferred flavour of agile - to get the job done effectively with as little time wasted on pointless managerial procedures.
 
 * Product Development
   : I believe the key to web development is communication, and most importantly this is ensuring that the business goals and the technical needs are working together nicely. That's why I've found my most successful projects have been those in which I've been allowed to give technical insights into the direction of the business/product.
-
--------
-
-### Technical {#technical}
-1. Ruby/Rails
-1. Javascript/CoffeeScript
-1. PHP
-1. HTML5
-1. CSS3
-1. Git
-1. Unix
-1. MySQL/PostgreSQL
-1. Some experience of NodeJS/Python
-
-------
 
 ### Selected Experience {#experience}
 
@@ -53,11 +43,6 @@ Design Sprints and doing proper UX with user interviews and metrics. Helped the
 team experiment with self-management, and introduced ideas of self-management
 into the engineering team.
 
-Various
-: *Freelance Web Developer*
-  __2014__
-  Worked on a wide variety of projects: everything from a Chaplin.js/Backbone.js/Rails based booking management system, to a custom-designed interactive map using Leaf.js/Mapbox and Drupal, to a music visualizer for the London Symphony Orchestra built in tandem with an animator using Blender and Python.
-
 Enternships
 : *Lead Developer*
   __2013-2014__
@@ -67,11 +52,6 @@ ECPAT International
 : *Web Designer/Technical Consultant*
   __2013__
   Advised Bangkok-based international charity with subsidiaries in over 70 countries on the direction they should take technically. Following this consultancy volunteered to rebuild and redesign their current site, and based on a thorough research of their user's and the charities needs built a Drupal site with a cleaned-up, stripped-down design.
-
-Maker's Academy
-: *Teacher*
-  __2013__
-  Founding member of the faculty of a 12-week intensive web development course, both taught students in the class and assisted with the development of the curriculum. Students have since gone on to work at companies such as Sky and LastMinute.com
 
 CouchSurfing.org
 : *Software Engineer*
@@ -83,18 +63,15 @@ Mukuru.com
   __2008-2010__
   Architected and built an entire mobile money-transfer system -  the same system is still being used four years on and and has transferred over $1 billion using an innovative SMS-based approach. Included in the system was a custom-built accounting application, anti-fraud protection, CRM and more.
 
-Various Companies
-: *Freelance Web Developer*
-  __2004-2014__
-  For the past 10 years I have worked freelance on-and-off for various companies, doing everything from building a co-working website in Ruby for a New-York based start-up to a bill-sharing application written in PHP.
-
-------
+Freelance Developer
+: *Lead Developer*
+  __2004-2008__
+  Built websites for various clients on a freelance basis using HTML, CSS,
+JavaScript and PHP.
 
 ### Education {#experience}
 
 First Class Honours in *Intellectual and Cultural History*, __University of Sussex__
-
-------
 
 ### Footer {#footer}
 
